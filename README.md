@@ -28,36 +28,6 @@
 ---
 
 ## 🔹 Contact
-- 📧 Email: [subornaakther958@gmail.com](mailto:subornaakther958@gmail.com) 
-
-🎓 **CSE Student | Passionate about Cyber Security & AI**  
-💻 Also interested in Web Development & Software Development  
-🌱 Currently learning **C programming** and planning to expand into other tech  
-🛠 Using **VS Code** as my main coding editor  
-
----
-
-## 🔹 Skills
-- **Programming Languages:** C (learning), planning to learn Python, Java, etc.  
-- **Tools & Platforms:** VS Code, Git, GitHub  
-- **Areas of Interest:** Cyber Security, AI, Web Development, Software Development  
-
----
-
-## 🔹 Projects
-> Nothing yet, currently learning and building my first projects  
-- 🛠 Coming soon: C projects & mini apps  
-
----
-
-## 🔹 Learning / Journey
-- Exploring the world of coding step by step  
-- My passion is **Cyber Security & AI**  
-- Aiming to become a **full-stack developer with core expertise**  
-
----
-
-## 🔹 Contact
 - 📧 Email: [subornaakther958@gmail.com](mailto:subornaakther958@gmail.com)  
 - 🔗 LinkedIn: Coming soon
 
