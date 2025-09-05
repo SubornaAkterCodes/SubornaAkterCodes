@@ -58,7 +58,7 @@
 ---
 
 ## 🔹 Contact
-- 📧 Email: [tanvirahmmed13579@gmail.com](mailto:tanvirahmmed13579@gmail.com)  
+- 📧 Email: [subornaakther958@gmail.com](mailto:subornaakther958@gmail.com)  
 - 🔗 LinkedIn: Coming soon
 
 ---
