@@ -28,7 +28,7 @@
 ---
 
 ## 🔹 Contact
-- 📧 Email: [subornaakther958@gmail.com](mailto:# Hi there 👋, I'm MD Tanvir Ahmmed
+- 📧 Email: [subornaakther958@gmail.com](mailto:subornaakther958@gmail.com) 
 
 🎓 **CSE Student | Passionate about Cyber Security & AI**  
 💻 Also interested in Web Development & Software Development  
